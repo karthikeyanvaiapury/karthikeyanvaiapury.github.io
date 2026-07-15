@@ -18,6 +18,7 @@ PhD — Queen Mary University of London
 MS (Research) — National University of Singapore
 
 BTech (Information Technology) Bharathidasan University
+  - website: https://karthikeyanvaiapury.github.io/
   - github: https://github.com/karthikeyanvaiapury/
   - linkedin: https://www.linkedin.com/in/karthikeyanvaiapury/
 ---
