@@ -1,0 +1,72 @@
+# Main Navigation
+
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 20
+
+[[main]]
+  name = "Research"
+  pageRef = "research"
+  weight = 30
+
+[[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 40
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 50
+
+[[main]]
+  name = "Patents"
+  pageRef = "patents"
+  weight = 60
+
+[[main]]
+  name = "Talks"
+  pageRef = "talks"
+  weight = 70
+
+[[main]]
+  name = "CV"
+  pageRef = "cv"
+  weight = 80
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 90
+
+# Social Links
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/karthikeyanvaiapury"
+  weight = 100
+
+[[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://www.linkedin.com/in/karthikeyanvaiapury/"
+  weight = 110
+
+# Footer
+
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 10
+
+[[footer]]
+  name = "CV"
+  pageRef = "cv"
+  weight = 20
