@@ -31,13 +31,12 @@ Inventor of Adversarial Energy Redirection Optimization (AERO), a novel optimiza
 ---
 
 ## Recent News
-July 2026: website launched
-June 2025: Invited keynote: Decision Intelligence in smart manufacturing systems, Preconference workshop for ICCCSP 2026 https://www.linkedin.com/feed/update/urn:li:activity:7475098551354613761/
-June 2025: AERO paper on arXiv https://arxiv.org/abs/2506.02415
-Patent filed
-New publication
-July 2026: Board of Studies appointment, Pondicherry Technology University
-
+- July 2026: website launched
+- July 2026: Board of Studies appointment, Pondicherry Technology University
+- Patent filed (AERO)
+- June 2026: Invited keynote: Decision Intelligence in smart manufacturing systems, Preconference workshop for ICCCSP 2026 https://www.linkedin.com/feed/update/urn:li:activity:7475098551354613761/
+- June 2025: AERO paper on arXiv https://arxiv.org/abs/2506.02415
+- Patent filed (AERO)
 ---
 
 ## Research Interests
