@@ -21,8 +21,7 @@ BTech (Information Technology) Bharathidasan University
   - website: https://karthikeyanvaiapury.github.io/
   - github: https://github.com/karthikeyanvaiapury/
   - linkedin: https://www.linkedin.com/in/karthikeyanvaiapury/
-Email: karthikenus@gmail.com, drkarthikeyanvaiapury@gmail.com
-Mobile: +91-7299911826 
+
 ---
 
 ## SUMMARY
@@ -434,6 +433,11 @@ Joint grant proposals
 Industrial research
 Invited talks
 
+---
+
+### Contact details
+Email: karthikenus@gmail.com, drkarthikeyanvaiapury@gmail.com
+Mobile: 91 7299911826
 
 ---
 
