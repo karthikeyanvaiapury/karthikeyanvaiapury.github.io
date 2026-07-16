@@ -30,7 +30,7 @@ Inventor of Adversarial Energy Redirection Optimization (AERO), a novel optimiza
 
 ---
 
-## Recent News
+## Latest Research Updates
 - July 2026: website launched
 - July 2026: Board of Studies appointment, Pondicherry Technology University
 - Patent filed (AERO)
